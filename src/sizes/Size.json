@@ -1,0 +1,16 @@
+{
+  "padding": 12,
+  "paddingMedium": 16,
+  "paddingSmall": 10,
+
+  "margin": 12,
+  "marginMedium": 16,
+  "marginSmall": 10,
+  "marginlarge": 24,
+  "marginXlarge": 32,
+
+  "fontBase": 14,
+  "fontMedium": 16,
+  "fontSmall": 10,
+  "fontLarge": 24
+}
